@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348133286181"
-global.ownername = "Lord No Name"
+global.ownernomer = "2348167893599"
+global.ownername = "Lord mafis"
 global.ytname = "YT: No-Name-Tech"
 global.socialm = "GitHub: Anime-King01"
 global.location = "Africa/Lagos"
 
-global.ownernumber = '2348133286181'  //creator number
-global.ownername = 'Lord No Name' //owner name
+global.ownernumber = '2348167893599'  //creator number
+global.ownername = 'Lord mafis' //owner name
 global.botname = 'Devil_Cat ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Youtube No Name Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t'
+global.link = 'https://whatsapp.com/channel/0029VadIfkvFSAt7RRohy1F0t'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Lord No Name or premium user only',
-    admin: 'This feature can be used by Lord No Name or admin only',
+    prem: 'This feature can be used by Lord Mafis',
+    admin: 'This feature can be used by Lord Mafis',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Lord No Name or owner only',
+    owner: 'This feature can be used by Lord Mafis',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
